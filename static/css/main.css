@@ -1,0 +1,27 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(255, 238, 238);
+}
+
+.content {
+    margin: 0 auto;
+    width: 450px;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    
+    padding: 10px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}
